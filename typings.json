@@ -1,5 +1,6 @@
 {
   "name": "stripe",
   "main": "stripe.d.ts",
-  "browser": "stripe.d.ts"
+  "ambient": true,
+  "version": "1.0.0"
 }
