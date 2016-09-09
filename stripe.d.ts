@@ -113,7 +113,3 @@ interface StripeBankTokenResponse
     error: StripeError;
 }
 
-declare var Stripe: StripeStatic;
-declare module "Stripe" {
-    export = StripeStatic;
-}
