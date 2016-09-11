@@ -1,6 +1,6 @@
 {
   "name": "stripe",
   "main": "stripe.d.ts",
-  "ambient": true,
+  "global": true,
   "version": "1.0.0"
 }
