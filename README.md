@@ -7,6 +7,14 @@ This typing is corresponding to [stripe/stripe.d.ts](https://github.com/Definite
 
 This typing helps developers to embed stripe payment form to their application with [stripe.js](https://stripe.com/docs/stripe.js) or [checkout.js](https://stripe.com/docs/checkout).
 
+## Usage
+
+In package.json:
+
+“devDependencies”: {
+    "@types/stripe": "git://github.com/taxpon/typings-stripe.git"
+}
+
 ## License
 
 MIT
